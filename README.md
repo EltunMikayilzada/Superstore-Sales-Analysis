@@ -3,7 +3,7 @@
 Bu layihə, ABŞ-da fəaliyyət göstərən bir pərakəndə satış zəncirinin (Superstore) 4 illik satış məlumatlarını analiz etmək üçün hazırlanmış interaktiv **Power BI** hesabatıdır. Layihənin məqsədi satış trendlərini, mənfəət marjasını və regional performansı vizuallaşdıraraq strateji qərarların verilməsinə kömək etməkdir.
 
 ## 🖼️ Dashboard Görünüşü
-![Dashboard Screenshot](Superstore-Sales-Analysis/images/dashboard-view.png) 
+[Dashboard Screenshot](Superstore-Sales-Analysis/Images/dashboard-view.png)
  
 
 ## 🛠️ İstifadə Olunan Texnologiyalar və Alətlər
